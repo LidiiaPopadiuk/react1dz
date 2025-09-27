@@ -15,11 +15,8 @@ const webs = [
   }
 ];
 const name = "Lidiia";
-
 const a = 5
-
 const b = 10
-
 const foto =
   "https://images.pexels.com/photos/3426870/pexels-photo-3426870.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500";
 function App() {
