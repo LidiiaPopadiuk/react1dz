@@ -30,7 +30,7 @@ function App() {
         {webs.map(web => {
           return <li>
             <p>Name: {web.name}</p>
-            <a href={web.url} target="_blank">{web.name}</a> 
+            <a href={web.url} target="_blank" rel="noreferrer">{web.name}</a> 
           </li>
         })}
       </ul>
